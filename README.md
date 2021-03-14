@@ -1,2 +1,0 @@
-# adblock
-my custom adblock

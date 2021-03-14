@@ -1,0 +1,10 @@
+# adblock
+0.0.0.0 tik-tok.com
+0.0.0.0 m.sport1.de
+0.0.0.0 sport1.de
+0.0.0.0 aslaprason.com
+0.0.0.0 voluume.adserver.pw
+
+
+
+
