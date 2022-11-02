@@ -34566,7 +34566,6 @@ tf2r.com#@#.adverts
 ||noucoush.net^
 ||nougacoush.^
 ||referrer.disqus.com^
-||vidstream.pro^
 ||amung.us^
 ||addthis.com^
 ||likedstring.com^
