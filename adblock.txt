@@ -34565,3 +34565,9 @@ tf2r.com#@#.adverts
 ||notorietycheerypositively.com^
 ||noucoush.net^
 ||nougacoush.
+||referrer.disqus.com
+||vidstream.pro
+||amung.us
+||addthis.com
+||likedstring.com
+||inpage-push.com
